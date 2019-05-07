@@ -1,0 +1,24 @@
+#article-title{
+	color: blue;
+	text-align: center;
+}
+
+.subtitle{
+	color: green;
+	text-decoration: underline;
+	font-weight: bold;
+	font-style: italic;
+}
+
+p::first-letter{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.p-italic{
+	font-style: italic;
+}
+
+p{
+	margin-bottom: 20px;
+}
